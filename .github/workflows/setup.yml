@@ -14,7 +14,7 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Setup CI 
+name: Setup CI
 on:
   push:
     paths:

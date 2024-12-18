@@ -14,7 +14,7 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Static Site CI 
+name: Static Site CI
 on:
   schedule:
     - cron: "0 1 * * *"
