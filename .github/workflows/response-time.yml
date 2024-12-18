@@ -14,7 +14,7 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Response Time CI
+name: Response Time CI 
 on:
   schedule:
     - cron: "0 23 * * *"
