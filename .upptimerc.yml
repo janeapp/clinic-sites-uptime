@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: clinic-sites-uptime
-  logoUrl: https://raw.githubusercontent.com/$OWNER/$REPO/assets/clinicsites.svg
+  logoUrl: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
   name: ClinicSites
   introTitle: "**ClinicSites** the best platform for building your clinic's website."
   introMessage: "This is the ClinicSites status page, powered by Upptime."
