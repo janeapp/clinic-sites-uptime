@@ -13,8 +13,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: clinic-sites-uptime
+  cname: status.clinicsites.co
+  #baseUrl: clinic-sites-uptime
   logoUrl: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
   name: ClinicSites
   introTitle: "**ClinicSites** the best platform for building your clinic's website."
