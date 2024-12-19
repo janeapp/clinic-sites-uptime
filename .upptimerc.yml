@@ -1,12 +1,13 @@
-# Change these first
-owner: janeapp # Your GitHub organization or username, where this repository lives
-repo: clinic-sites-uptime # The name of this repository
+owner: janeapp 
+repo: clinic-sites-uptime
 
 sites:
   - name: ClinicSites Production
     url: https://clinicsites.co
   - name: ClinicSites Previews
     url: https://template1.clinicsites.co
+  - name: ClinicSites Live Domain
+    url: $CLINIC_SITES_LIVE_DOMAIN
 assignees:
   - James-Pike-Jane
 
