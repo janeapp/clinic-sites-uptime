@@ -1,3 +1,5 @@
+# See https://upptime.js.org/docs/configuration
+
 owner: janeapp 
 repo: clinic-sites-uptime
 
@@ -6,17 +8,19 @@ sites:
     url: https://clinicsites.co
   - name: ClinicSites Previews
     url: https://template1.clinicsites.co
+    faviconSvg: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
   - name: ClinicSites Live Domain
     url: $CLINIC_SITES_LIVE_DOMAIN
+    faviconSvg: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
 assignees:
   - James-Pike-Jane
+  - brycemevans-jane
+  - phil-janeapp
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.clinicsites.co
-  #baseUrl: clinic-sites-uptime
   logoUrl: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
+  faviconSvg: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
   name: ClinicSites
   introTitle: "**ClinicSites** the best platform for building your clinic's website."
   introMessage: "This is the ClinicSites status page, powered by Upptime."
@@ -26,5 +30,15 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# These are the default values - Included for reference
+# Keep in mind GitHub Actions cannot run faster than every 5 minutes
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
+
+
