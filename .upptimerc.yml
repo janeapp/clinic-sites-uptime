@@ -31,6 +31,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 # These are the default values - Included for reference
+# They can be changed here if needed
 # Keep in mind GitHub Actions cannot run faster than every 5 minutes
 workflowSchedule:
   graphs: "0 0 * * *"
