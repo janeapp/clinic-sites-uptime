@@ -22,18 +22,20 @@
     "url": "https://template1.clinicsites.co",
     "icon": "https://icons.duckduckgo.com/ip3/template1.clinicsites.co.ico",
     "slug": "clinic-sites-site-preview",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 586,
-    "timeDay": 655,
-    "timeWeek": 586,
-    "timeMonth": 586,
-    "timeYear": 586,
-    "dailyMinutesDown": {}
+    "time": 580,
+    "timeDay": 515,
+    "timeWeek": 559,
+    "timeMonth": 580,
+    "timeYear": 580,
+    "dailyMinutesDown": {
+      "2025-01-19": 0
+    }
   },
   {
     "name": "ClinicSites Live Domain",
