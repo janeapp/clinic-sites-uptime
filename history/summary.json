@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 740,
-    "timeDay": 741,
-    "timeWeek": 773,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "time": 735,
+    "timeDay": 564,
+    "timeWeek": 736,
+    "timeMonth": 741,
+    "timeYear": 735,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "clinic-sites-site-preview",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 575,
-    "timeDay": 446,
-    "timeWeek": 565,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 569,
+    "timeDay": 351,
+    "timeWeek": 535,
+    "timeMonth": 571,
+    "timeYear": 569,
     "dailyMinutesDown": {
       "2025-01-19": 7
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 755,
-    "timeWeek": 788,
-    "timeMonth": 864,
-    "timeYear": 861,
+    "time": 855,
+    "timeDay": 625,
+    "timeWeek": 752,
+    "timeMonth": 869,
+    "timeYear": 855,
     "dailyMinutesDown": {}
   }
 ]
