@@ -6,10 +6,10 @@ repo: clinic-sites-uptime
 sites:
   - name: ClinicSites.co
     url: https://clinicsites.co
-  - name: ClinicSites Site Preview
+  - name: Clinic Sites Site Preview
     url: https://template1.clinicsites.co
     faviconSvg: https://icons.duckduckgo.com/ip3/clinicsites.co.ico
-  - name: ClinicSites Live Domain
+  - name: Clinic Sites Live Domain
     url: $CLINIC_SITES_LIVE_DOMAIN
     favicon: https://icons.duckduckgo.com/ip3/clinicsites.co.ico
 assignees:
@@ -21,8 +21,8 @@ status-website:
   cname: status.clinicsites.co
   logoUrl: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
   faviconSvg: https://raw.githubusercontent.com/janeapp/clinic-sites-uptime/master/assets/clinicsites.svg
-  name: ClinicSites
-  introTitle: "**ClinicSites** the best platform for building your clinic's website."
+  name: "Clinic Sites"
+  introTitle: "**Clinic Sites** the best platform for building your clinic's website."
   introMessage: ""
   navbar:
     - title: Status
