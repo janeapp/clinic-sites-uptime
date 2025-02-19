@@ -24,10 +24,10 @@
     "url": "https://template1.clinicsites.co",
     "icon": "https://icons.duckduckgo.com/ip3/template1.clinicsites.co.ico",
     "slug": "clinic-sites-site-preview",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 593,
@@ -36,6 +36,7 @@
     "timeMonth": 599,
     "timeYear": 593,
     "dailyMinutesDown": {
+      "2025-02-19": 1,
       "2025-02-06": 4,
       "2025-01-30": 7,
       "2025-01-19": 7
@@ -46,9 +47,9 @@
     "url": "$CLINIC_SITES_LIVE_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "clinic-sites-live-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -58,6 +59,7 @@
     "timeMonth": 794,
     "timeYear": 830,
     "dailyMinutesDown": {
+      "2025-02-19": 0,
       "2025-02-06": 4
     }
   }
