@@ -1,7 +1,7 @@
 url: $CLINIC_SITES_LIVE_DOMAIN
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-19T21:29:15.245Z
+status: up
+code: 200
+responseTime: 548
+lastUpdated: 2025-02-19T22:04:42.013Z
 startTime: 2024-12-20T00:00:23.410Z
 generator: Upptime <https://github.com/upptime/upptime>
