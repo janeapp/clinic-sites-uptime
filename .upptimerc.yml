@@ -39,7 +39,7 @@ workflowSchedule:
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
+  updates: "0 1 1 1 *" # block updates for now - reset this to "0 3 * * *"
   uptime: "*/5 * * * *"
 
 
