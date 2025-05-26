@@ -1,7 +1,7 @@
 url: https://clinicsites.co
-status: up
-code: 200
-responseTime: 1012
-lastUpdated: 2025-05-25T23:01:11.896Z
+status: down
+code: 502
+responseTime: 162
+lastUpdated: 2025-05-26T18:47:50.627Z
 startTime: 2024-12-20T01:08:44.010Z
 generator: Upptime <https://github.com/upptime/upptime>
