@@ -8,10 +8,10 @@ assignees: ''
 ---
 
 <!--
-start: 2021-08-24T13:00:00.220Z
-end: 2021-08-24T14:00:00.220Z
-expectedDown: google, hacker-news
+start: 2025-05-27T19:30:00.000Z
+end: 2025-05-27T22:15:00.000Z
+expectedDown: ClinicSites.co, Clinic-Sites-Preview, Clinic-Sites-Live-Domain
 -->
-
 **Additional context**
-Who/what/when/where/why is this maintenance happening
+Scheduled maintenance window setup to perform system updates.
+
