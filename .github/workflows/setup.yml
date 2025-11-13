@@ -28,25 +28,25 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@1e31de5234b9f8995739874a8ce0492dc87873e2
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Update template
-        uses: upptime/uptime-monitor@2314de1effff40159f4d7d206aa9f6d40c691db3
+        uses: upptime/uptime-monitor@e620a0d7a97526a295bbe3970495bff6495bdf27
         with:
           command: "update-template"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
       - name: Update response time
-        uses: upptime/uptime-monitor@2314de1effff40159f4d7d206aa9f6d40c691db3
+        uses: upptime/uptime-monitor@e620a0d7a97526a295bbe3970495bff6495bdf27
         with:
           command: "response-time"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           SECRETS_CONTEXT: ${{ toJson(secrets) }}
       - name: Update summary in README
-        uses: upptime/uptime-monitor@2314de1effff40159f4d7d206aa9f6d40c691db3
+        uses: upptime/uptime-monitor@e620a0d7a97526a295bbe3970495bff6495bdf27
         with:
           command: "readme"
         env:
@@ -57,7 +57,7 @@ jobs:
           workflow: Graphs CI
           token: ${{ secrets.GH_PAT || github.token }}
       - name: Generate site
-        uses: upptime/uptime-monitor@2314de1effff40159f4d7d206aa9f6d40c691db3
+        uses: upptime/uptime-monitor@e620a0d7a97526a295bbe3970495bff6495bdf27
         with:
           command: "site"
         env:
