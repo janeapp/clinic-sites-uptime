@@ -1,6 +1,6 @@
-# [<img alt="Clinic Sites" src="assets/clinicsites.svg" width=30> Live Status](https://janeapp.github.io/clinic-sites-uptime): <!--live status--> **🟩 All systems operational**
+# [<img alt="Jane Websites" src="assets/jane-websites-jane-blue.png" width=30> Live Status](https://janeapp.github.io/clinic-sites-uptime): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [ClinicSites](https://clinicsites.co).
+This repository contains the open-source uptime monitor and status page for [Jane Websites](https://janewebsites.com).
 
 [![Uptime CI](https://github.com/janeapp/clinic-sites-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/janeapp/clinic-sites-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/janeapp/clinic-sites-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/janeapp/clinic-sites-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
